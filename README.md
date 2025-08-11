@@ -55,4 +55,3 @@ It provides **image-based disease prediction**, **symptom-based diagnosis**, **s
 
 ---
 
-## 📂 Project Structure
